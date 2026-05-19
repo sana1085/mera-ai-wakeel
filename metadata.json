@@ -1,0 +1,6 @@
+{
+  "name": "Mera AI Wakeel",
+  "description": "Expert Legal Navigation and Procedural Guidance for the Pakistani legal system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
